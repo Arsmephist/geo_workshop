@@ -1,0 +1,36 @@
+name: geoanalytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely
+  - pyproj
+  - gdal
+  - fiona
+  - rtree
+  - osmnx
+  - contextily
+  - h3-py
+  - rasterio
+  - folium
+  - geojson
+  - descartes
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - statsmodels
+  - jupyterlab
+  - nbclassic
+  - ipykernel
+  - notebook
+  - ipywidgets
+  - tqdm
+  - requests
+  - pyarrow
+  - spatialpandas
+  - keplergl
+  - networkx
